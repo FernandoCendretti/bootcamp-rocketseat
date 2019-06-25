@@ -8,4 +8,4 @@
 
 ### MarketPlace
 
-<p style="font-size: 16px;">API Rest de um MarketPlace ouum Ecommerce. <a href="https://github.com/FernandoCendretti/gonode-modulo-3">Link para o repositório</a></p>
+<p style="font-size: 16px;">API Rest de um MarketPlace ou um Ecommerce. <a href="https://github.com/FernandoCendretti/gonode-modulo-3">Link para o repositório</a></p>

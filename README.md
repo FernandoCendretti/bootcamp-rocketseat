@@ -13,3 +13,8 @@
 ### ReactBook
 
 <p style="font-size: 16px;">Website de posts no estilo do Facebook. <a href="https://github.com/FernandoCendretti/goreact-modulo-1">Link para o repositório</a></p>
+
+### GitCompare
+
+<p style="font-size: 16px;">Website que compara respositórios no Git. <a href="https://github.com/FernandoCendretti/goreact-modulo-2">Link para o repositório</a></p>
+

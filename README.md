@@ -4,7 +4,7 @@
 
 ### Go Barber
 
-<p style="font-size: 16px;">Aplicação Web para agendamento em Barbearias. <a href="https://github.com/FernandoCendretti/gonode-module-2">Link para o repositório</a></p>
+<p style="font-size: 16px;">Aplicação Web para agendamento em Barbearias. <a href="https://github.com/FernandoCendretti/GoBarber">Link para o repositório</a></p>
 
 ### MarketPlace
 

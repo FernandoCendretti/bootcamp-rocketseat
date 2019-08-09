@@ -20,5 +20,5 @@
 
 ### MeetApp
 
-<p style="font-size: 16px;">Ferramenta agrgadora de eventos para desenvolvedores. <a href="https://github.com/FernandoCendretti/MeetApp">Link para o repositório</a></p>
+<p style="font-size: 16px;">Ferramenta agregadora de eventos para desenvolvedores. <a href="https://github.com/FernandoCendretti/MeetApp">Link para o repositório</a></p>
 
